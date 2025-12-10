@@ -1,4 +1,4 @@
-🧰 Tech Stack
+Tech Stack
 Backend
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white"/> </p>
 Databases & Storage
