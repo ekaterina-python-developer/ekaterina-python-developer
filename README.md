@@ -1,3 +1,12 @@
+Привет! Меня зовут Екатерина
+
+Я — backend-разработчик на Python с опытом работы с современным стеком технологий: Django/DRF/Flask, PostgreSQL, Docker, REST API, Pytest. Придерживаюсь принципов чистого, поддерживаемого кода и важности тестирования. В работе использую Git.
+Осознанно выбрала это направление, так как мне интересна архитектура приложений, работа с данными и создание надёжной бизнес-логики.
+Опыт работы в крупной энергосистеме сформировал умение поддерживать стабильность сложных процессов и эффективно коммуницировать в команде.
+
+Я постоянно учусь: читаю профильную литературу, документацию, статьи, изучаю JS/TS и Go. 
+Ищу команду для совместного решения сложных и интересных задач.
+
 Tech Stack
 Backend
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white"/> </p>
