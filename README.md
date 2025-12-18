@@ -29,6 +29,7 @@ Other
 Contacts / Контакты
 
 Telegram: @ekaterina_python_developer
+
 Email: ekaterinaponurova@ya.ru
 
 
