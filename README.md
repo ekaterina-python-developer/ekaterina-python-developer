@@ -7,7 +7,8 @@
 Я постоянно учусь: читаю профильную литературу, документацию, статьи, изучаю JS/TS и Go. 
 Ищу команду для совместного решения сложных и интересных задач.
 
-Tech Stack
+Tech Stack / Технологии
+
 Backend
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white"/> </p>
 Databases & Storage
@@ -24,3 +25,11 @@ Tools & Methodologies
 <p align="left"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/OOP-4A90E2"/> <img src="https://img.shields.io/badge/Agile/Scrum-2496ED"/> </p>
 Other
 <p align="left"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> </p>
+
+Contacts / Контакты
+
+Telegram: @ekaterina_python_developer
+Email: ekaterinaponurova@ya.ru
+
+
+
