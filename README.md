@@ -8,6 +8,7 @@
 Ищу команду для совместного решения сложных и интересных задач.
 
 Tech Stack
+Backend
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white"/> </p>
 Databases & Storage
 <p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-323232?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Django%20ORM-092E20?logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791"/> </p>
